@@ -31,12 +31,31 @@ git clone https://github.com/allenGKC/ai-product-research.git ~/.codex/skills/ai
 
 需要 XCrawl API key（注册即送 1,000 免费 credits）：
 
-1. 去 https://dash.xcrawl.com/api-key 获取 API key
-2. 创建配置文件 `~/.xcrawl/config.json`：
+### 第一步：注册 XCrawl
+
+通过以下链接注册：
+
+👉 https://xcrawl.com/?keyword=henitdw4
+
+注册流程：
+1. 打开链接，点击 **Start Free Trial**
+2. 用邮箱注册（无需信用卡）
+3. 注册完成后自动获得 1,000 免费 credits
+
+### 第二步：获取 API key
+
+1. 登录后进入 https://dash.xcrawl.com/api-key
+2. 复制你的 API key
+
+### 第三步：配置到本地
+
+创建配置文件 `~/.xcrawl/config.json`：
 
 ```json
 {"apiKey": "xc-你的key"}
 ```
+
+搞定，可以直接用了。每次搜索约 2 credits，抓取一页约 1-2 credits，1,000 credits 能用很久。
 
 ## 使用
 
