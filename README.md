@@ -80,7 +80,8 @@ Skill 会自动：
 
 ## 示例输出
 
-见 [example-output-xcrawl.md](example-output-xcrawl.md) — 用 XCrawl 深扒 XCrawl 自己的完整报告。
+- [example-output-aihot.md](example-output-aihot.md) — 深扒卡兹克的 AIHOT 热点站
+- [example-output-xcrawl.md](example-output-xcrawl.md) — 用 XCrawl 深扒 XCrawl 自己
 
 ## 报告包含
 
