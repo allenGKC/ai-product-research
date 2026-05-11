@@ -81,7 +81,7 @@ Skill 会自动：
 ## 示例输出
 
 - [example-output-aihot.md](example-output-aihot.md) — 深扒卡兹克的 AIHOT 热点站
-- [example-output-xcrawl.md](example-output-xcrawl.md) — 用 XCrawl 深扒 XCrawl 自己
+- [example-output-cursor.md](example-output-cursor.md) — 用 XCrawl 深扒 Cursor 编辑器
 
 ## 报告包含
 
@@ -91,7 +91,7 @@ Skill 会自动：
 - GitHub / 技术指标
 - 社区评价（正面 + 负面）
 - 竞品对比表
-- 木马人点评（适合谁、值不值得用、写作角度）
+- 点评（适合谁、值不值得用、写作角度）
 
 ## License
 
